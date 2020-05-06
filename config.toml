@@ -1,4 +1,4 @@
-baseURL = "https://hellowebsite.it"
+baseURL = "http://hellowebsite.it"
 publishDir = "docs"
 languageCode = "en-us"
 title = "hello"
