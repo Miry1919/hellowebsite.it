@@ -40,7 +40,6 @@ img {
 
 .content {
     padding-top: 20px;
-    font-size: 17px;
 }
 
 /* Profile picture */
@@ -77,8 +76,6 @@ a:hover {
     padding: 15px 0;
 }
 
-.pages-font
-
 .pages-icon {
     padding: 0 15px;
 }
@@ -96,12 +93,8 @@ a:hover {
 /* Navigation icons */
 
 .navbar-icon {
-    font-size: 100%;
-    display: inline !important;
-}
-
-.navbar {
-    font-size: 15px;
+    font-size: 125%;
+    display: inline-block !important;
 }
 
 /* Colored borders at top/bottom of page */
