@@ -19,11 +19,11 @@ Ascoltalo:
 
 * Puntata #28 (14•9•2020) <span style="color:blue">⚡ New!</span>
 
-☞[Ho fatto windsurf](https://anchor.fm/miriana-novella7/episodes/Ho-fatto-windsurf-ejkdad)
+    ☞[Ho fatto windsurf](https://anchor.fm/miriana-novella7/episodes/Ho-fatto-windsurf-ejkdad)
 
-Nella puntata 28 parlo nuovamente di lezioni online, della scrivania motorizzata per studiare in piedi, della preoccupazione per i mezzi pubblici, di vendite, di perdite, di scoperte, e di videogiochi tramite il video su YouTube "Why video games are good for you".
+    Nella puntata 28 parlo nuovamente di lezioni online, della scrivania motorizzata per studiare in piedi, della preoccupazione per i mezzi pubblici, di vendite, di perdite, di scoperte, e di videogiochi tramite il video su YouTube "Why video games are good for you".
 
-Metti un cuoricino qui se puoi ☞https://www.instagram.com/p/CE58sWKhm1N/?igshid=9gg2uxvv9pf1
+    Metti un cuoricino qui se puoi ☞https://www.instagram.com/p/CE58sWKhm1N/?igshid=9gg2uxvv9pf1
 
 ---
 
