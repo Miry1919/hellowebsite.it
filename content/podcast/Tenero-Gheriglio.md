@@ -25,7 +25,7 @@ Ascoltalo:
     
 ---
 
-* Puntata #29 (21•9•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #29 (21•9•2020)
 
     ☞[Avrò mangiato qualcosa di strano?](https://anchor.fm/miriana-novella7/episodes/Avr-mangiato-qualcosa-di-strano-ejva3m)
     
