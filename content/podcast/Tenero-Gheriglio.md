@@ -24,6 +24,7 @@ Ascoltalo:
     Oggi trentacinquesima puntata, forse poco tecnica ma amichevole, in cui parlo di corse, libri, cuginanza, audiolibri, produttività, monitor, scrivanie, postazioni, ergonomia, sedie, code.
 
     → Bullet Journal: https://gettingthingsdone.com
+    
     → GTD: https://gettingthingsdone.com
     
 ---
