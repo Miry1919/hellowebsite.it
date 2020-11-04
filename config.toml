@@ -46,9 +46,9 @@ theme = "minimal"
     weight = 7
     
 [[menu.main]]
-url = "/sf/"
-name = "S & F"
-weight = 8
+    url = "/sf/"
+    name = "S&F"
+    weight = 8
 
 [[menu.icon]]
     url = "https://www.instagram.com/miry_geek/"
